@@ -1,0 +1,2 @@
+# Ads-Skip
+Skip Ads
